@@ -89,14 +89,14 @@ pip install pandas numpy matplotlib scikit-learn kagglehub
 python model_file.py
 
 
-##👤 Author
+## 👤 Author
 
-##Girish Chapekar
+## Girish Chapekar
 
 
 Aspiring Machine Learning Engineer with a strong interest in applied ML and data-driven problem solving.
 
-##⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 Kaggle for datasets
 
