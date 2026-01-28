@@ -100,8 +100,9 @@ Add cross-validation
 Deploy models using Streamlit / Flask
 
 👤 Author
+
 Girish Chapekar
-USN: CS23013
+
 
 Aspiring Machine Learning Engineer with a strong interest in applied ML and data-driven problem solving.
 
