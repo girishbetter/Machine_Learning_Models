@@ -80,33 +80,24 @@ These metrics help assess both accuracy and reliability of predictions.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-Install dependencies:
+2. Install dependencies:
 
 pip install pandas numpy matplotlib scikit-learn kagglehub
-Run the model script or notebook:
+
+3. Run the model script or notebook:
 
 python model_file.py
-🚀 Future Enhancements
-Add classification models (Logistic Regression)
 
-Implement ensemble methods (Random Forest, Gradient Boosting)
 
-Perform hyperparameter tuning
+##👤 Author
 
-Compare multiple models
-
-Add cross-validation
-
-Deploy models using Streamlit / Flask
-
-👤 Author
-
-Girish Chapekar
+##Girish Chapekar
 
 
 Aspiring Machine Learning Engineer with a strong interest in applied ML and data-driven problem solving.
 
-⭐ Acknowledgements
+##⭐ Acknowledgements
+
 Kaggle for datasets
 
 scikit-learn documentation
