@@ -6,7 +6,7 @@ It demonstrates my ability to build **end-to-end ML pipelines** — from data in
 > *Focused on learning by implementing real ML workflows, not just theory.*
 
 ---
-
+      
 ## 🎯 What This Repository Demonstrates
 
 - Practical understanding of Machine Learning fundamentals  
